@@ -1,0 +1,15 @@
+button {
+    border: 1px solid #fff;
+    border-radius: 0.4rem;
+    color: #ffffff;
+    padding: .2rem;
+    margin: 2rem;
+    background-color: #25129f;
+    width: 200px;
+    box-shadow: 10px 10px 15px 5px rgba(0,0,0,0.5);
+    &:hover{
+        transform: translateY(-2px);
+        background-color: #4736b0;
+        transition: .5s;
+    }
+}
