@@ -1,3 +1,5 @@
+![foto do projeto rodando](https://github.com/AlexandreNoguez/only-assets/blob/main/ReactForms.png?raw=true)
+
 ## Um projeto em desenvolvimento exclusivamente para praticar.
 
 ### Esse projeto consiste em desenvolver uma aplicação para cadastro de usuários.
